@@ -1,0 +1,12 @@
+mCoA2++ additions for OMNEST/OMNeT++ 4.0
+=======================================
+further info: http://mcoa.dei.uc.pt
+
+This version has been implemented on INETMANET.
+The need to haev support for multiple interfaces on a
+single node has justified INETMANET.
+
+The First version of mCoA++ will not be supported, sorry
+about this.
+
+
